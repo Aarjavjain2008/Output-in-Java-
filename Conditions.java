@@ -1,3 +1,4 @@
+//Program to Find Whether the given person is an Adult or Not.
 import java.util.*;
 public class Conditions{
     public static void main(String args[]) {
